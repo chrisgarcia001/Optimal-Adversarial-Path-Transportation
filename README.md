@@ -11,8 +11,8 @@ with respect to cumulative footprint. The objective is to both allocate a set of
 all items successfully reach their destination. 
 
 #### Solution Approach
-In the paper this problem was proven to be strongly NP-hard. Accordingly, exact approaches may be employed only for small problem instances. Accordingly, four 
-optimization algorithms were developed: 
+In the paper this problem was proven to be strongly NP-hard and as a result, exact approaches will only be effective only for small problem instances. Accordingly, four 
+different optimization algorithms were developed: 
 
 1. An exact enumerative algorithm
 2. A greedy heuristic
@@ -38,5 +38,5 @@ with "exp" will overwrite the results unless different output folders are specif
 #### Paper and Citation
 The full paper can be found [here.](https://www.tandfonline.com/doi/abs/10.1080/24725854.2018.1488306)
 If you wish to cite this work, please use the following reference:
-Christopher Garcia, "Optimal multiunit transfer over adversarial paths with increasing intercept probabilities", IISE Transactions, Vol. 50 Iss: 11, pp.989-996.
+Garcia C. (2018), "Optimal multiunit transfer over adversarial paths with increasing intercept probabilities", IISE Transactions, Vol. 50 Iss: 11, pp.989-996.
 
