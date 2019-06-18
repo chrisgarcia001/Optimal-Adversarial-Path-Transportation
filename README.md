@@ -1,6 +1,6 @@
 Optimal Transportation of Critical Items Over Hostile Paths
 ===============
-### Optimal multiunit transfer over adversarial paths with increasing intercept probabilities
+
 This repo contains the code and experimental results used in the research paper 
 [*Optimal multiunit transfer over adversarial paths with increasing intercept probabilities*](https://www.tandfonline.com/doi/abs/10.1080/24725854.2018.1488306) by C. Garcia.
 This research addresses the problem of optimally transporting a set of items over a set of hostile paths where an adversary seeks to intercept them. 
