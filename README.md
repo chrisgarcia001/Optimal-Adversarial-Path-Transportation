@@ -19,10 +19,20 @@ optimization algorithms were developed:
 3. A greedy heuristic combined with local search
 4. A genetic algorithm
 
-The greedy heuristic with local search proved to be the most robust, achieving the best solutions on larger problems while having shorter run times than the GA
+The greedy heuristic with local search proved to be the most robust, achieving the best solutions on larger problems while having shorter run times than the GA.
 
 #### Code Organization and How to Run
+Each of the four algorithms above is implemented in src/lib/algorithms. Additionally, each algorithm has a runner inside the src/apps directory. Each of these
+runners is run from the command line and takes a parameter file path as command line input. All parameter files are simple CSV files, and examples of each
+can be found in the params folder.
 
+In addition to the core algorithms, there is also a runner for the problem generation. The problem generator runner also takes a parameter file path as
+command line input. 
+
+All problems generated and corresponding solutions discussed in the paper are found in the *data* and *output* folders, respectively.
+
+The scripts directory contains Windows batch files to run the different problem generation and core algorithm runs. **NOTE** Running any script beginning
+with "exp" will overwrite the results unless different output folders are specified in the respective parameter files.
 
 
 #### Paper and Citation
