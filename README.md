@@ -38,5 +38,5 @@ with "exp" will overwrite the results unless different output folders are specif
 #### Paper and Citation
 The full paper can be found [here.](https://www.tandfonline.com/doi/abs/10.1080/24725854.2018.1488306)
 If you wish to cite this work, please use the following reference:
-Garcia C. (2018), "Optimal multiunit transfer over adversarial paths with increasing intercept probabilities", IISE Transactions, Vol. 50 Iss: 11, pp.989-996.
+Garcia C. (2018), "Optimal multiunit transfer over adversarial paths with increasing intercept probabilities", *IISE Transactions*, Vol. 50 Iss: 11, pp.989-996.
 
